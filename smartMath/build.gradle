@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 16
-    buildToolsVersion "25.0.0"
+    buildToolsVersion '28.0.3'
 
     defaultConfig {
         applicationId "com.cyzapps.SmartMath"
@@ -24,5 +24,5 @@ android {
 }
 
 dependencies {
-    compile files('../../CoreMathImgProc/bin/CoreMathImgProc.jar')
+    implementation files('../../CoreMathImgProc/bin/CoreMathImgProc.jar')
 }

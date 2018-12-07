@@ -1,0 +1,4 @@
+#Fri Dec 07 12:44:35 BDT 2018
+base.0=/home/insane/SmartMath/smartMath/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
